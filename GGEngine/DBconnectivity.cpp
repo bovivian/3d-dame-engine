@@ -35,7 +35,7 @@ using bsoncxx::builder::stream::open_document;
 using bsoncxx::builder::stream::array;
 
 mongocxx::instance inst{};
-mongocxx::client conn{ mongocxx::uri{"mongodb+srv://read_user:change01@cluster0.4x8jw.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"} };
+mongocxx::client conn{ mongocxx::uri{"API-KEY"} };
 auto collection = conn["testdb"]["users"];
 
 std::string getpass(bool show_asterisk = true)
