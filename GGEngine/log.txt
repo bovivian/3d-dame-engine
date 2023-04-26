@@ -1,0 +1,9 @@
+[22:50:25] NFT GTR RPG 0.1 build 200 started!
+[22:50:25] WARNING: Couldn't read settings.cfg! Using defaults...
+[22:50:25] Rendering with: GeForce GTX 1050
+[22:50:25] SUCCESS: Vulkan interface initialized!
+[22:50:37] INFO: Login success.
+[22:50:37] ERROR: Couldn't find vertex shader file: canvasVS.spv
+[22:50:37] ERROR: Failed to init canvas shader!
+[22:50:37] ERROR: Failed to init UI pipelines!
+[22:50:37] ERROR: Failed to init scene manager!
